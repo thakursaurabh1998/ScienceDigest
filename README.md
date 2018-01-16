@@ -11,6 +11,7 @@ Steps to run this python script:
 	> *cd /vagrant*
 1. After this you have to run the *views.py* file. This is the main file which is created with Flask framework. Enter the command:
 	> *python views.py*
+	
 	__*Before that we have to add client_secrets.json and fb_client_secrets.json files in this directory*__
 1. After giving the command a server will be setup at *localhost:5000*
 1. Open browser and put the address mentioned above, i.e. *localhost:5000*
@@ -18,7 +19,7 @@ Steps to run this python script:
 
 *__The database file is also provided in the repo__*
 
-## View Definitions
+## References
 
 1. Made with Bootstrap.
 1. SideNav learnt from w3schools.
