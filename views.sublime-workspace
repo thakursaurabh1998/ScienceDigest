@@ -1,0 +1,710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"filt",
+				"filter_by"
+			],
+			[
+				"cat",
+				"category_name"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"col",
+				"col-md-9"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"usr",
+				"user_id"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"article",
+				"articles"
+			],
+			[
+				"usre",
+				"username"
+			],
+			[
+				"logi",
+				"login"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"fac",
+				"facebook"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"login",
+				"login_session"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"Articl",
+				"Articles"
+			],
+			[
+				"all",
+				"all_restaurants_handler"
+			],
+			[
+				"resta",
+				"restaruants"
+			],
+			[
+				"res",
+				"restaurants"
+			],
+			[
+				"rest",
+				"restaruants"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"p",
+				"puppies"
+			],
+			[
+				"phot",
+				"photo_result"
+			],
+			[
+				"secre",
+				"foursquare_client_secret"
+			],
+			[
+				"clid",
+				"foursquare_client_id"
+			],
+			[
+				"add",
+				"restaurant_address"
+			],
+			[
+				"http",
+				"httplib2"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"edit",
+				"editedRestaurant"
+			],
+			[
+				"create",
+				"createUser"
+			],
+			[
+				"get",
+				"getUserId"
+			],
+			[
+				"reid",
+				"restaurant_id"
+			],
+			[
+				"Menu",
+				"MenuItem"
+			],
+			[
+				"re",
+				"restaurant"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"men",
+				"menu_id"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"edi",
+				"editMenuItem"
+			],
+			[
+				"Db",
+				"DBSession"
+			],
+			[
+				"end",
+				"end_headers"
+			],
+			[
+				"Bas",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"resa",
+				"restaurant"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Avengers",
+				"avengers"
+			],
+			[
+				"RETU",
+				"return"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"mathc",
+				"matches"
+			],
+			[
+				"vali",
+				"valid_password"
+			],
+			[
+				"make",
+				"make_pw_hash"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"Blo",
+				"BlogPost"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"time",
+				"timeleft"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fizz",
+				"fizbuzz"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"val",
+				"valid_password"
+			],
+			[
+				"we",
+				"welcome"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"hor",
+				"horses-1600_large_2x"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"ne",
+				"newArray"
+			],
+			[
+				"non",
+				"nonSpaceCount"
+			],
+			[
+				"space",
+				"spaceCount"
+			],
+			[
+				"ep",
+				"expressionToGetSoftware"
+			],
+			[
+				"th",
+				"them"
+			],
+			[
+				"d",
+				"do\tDo While Loop"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"self",
+				"self-2x"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"pro",
+				"project1"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"ali",
+				"align-content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 629.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+			"ksjfdlk",
+			"helflkj",
+			"hello",
+			"print hello",
+			"indent",
+			"automatic indent"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/deleteArticle.html",
+		"/D/udacity/Projects/responsive/main.css",
+		"/D/udacity/Projects/portfolio/css/style.css",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/publicArticles.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/editArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/articles.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/static/style.css",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/newArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/home.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/header.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/main.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/singleArticle.html",
+		"/D/udacity/Projects/portfolio/index.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/models.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/templates/header.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/publicMain.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/templates/login.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/Vagrantfile",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/templates/restaurants.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/templates/login.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/templates/main.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/templates/login.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/client_secrets.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/newArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/singleArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/addingCategories.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/models.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/views.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/client_secrets.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/database_setup.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/main.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/articles.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/editArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project/templates/deleteArticle.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/project2/fb_client_secrets.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson4/step2/fb_client_secrets.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/dbF.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/forum/forumdb.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/forum/forum.py",
+		"/D/udacity/Projects/LogsAnalysis/vagrant/dbF.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/lotsofmenuswithusers.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/project.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest_api/models.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest_api/tester.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest_api/findARestaurant.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest_api/views.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/api/geocode.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/api/findARestaurant.py",
+		"/D/web-handler/thakursaurabh1998.github.io/index.html",
+		"/C/Users/Saurav/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Saurav/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/api/hotel.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/api/templates/place.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/api/endpoints2.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/endpoints2_tester.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/endpoints2.py",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/js/app.js",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/templates/header.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/fb_client_secrets.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth2/Lesson3/step3/templates/login.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/ap_server.py",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/index.html",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/README.md",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/css/animate.css",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/css/style.css",
+		"/C/Users/Saurav/Desktop/get-geo-location-master/js/validate.js",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/templates/menu.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/templates/publicrestaurants.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/publicmenu.html",
+		"/C/Users/Saurav/Desktop/19a076ca-2a24-4d9b-9708-9c6ec4072f53.svg",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/oauth/gconnect.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/restaurants.html",
+		"/D/udacity/Projects/README.md",
+		"/C/Users/Saurav/Desktop/client_secret_181244908618-tqnf31k8p6dq94thukv0me3gh48omeo6.apps.googleusercontent.com.json",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/finalProject.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/database_setup.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/menu.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/newMenuItem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/deleteMenuItem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/editMenuItem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/project.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/newRestaurant.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/deleteRestaurant.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/editRestaurant.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/static/styles.css",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/deletemenuitem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/editmenuitem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/templates/newmenuitem.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/hotel_webserver.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/teplates/menu.html",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/quiz.py",
+		"/D/udacity/7-Fullstack Foundations/CRUD Review.txt",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest/hotel_webserver.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/lotsofmenus.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/restaurant/restaurantmenu.db",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/rest/webserver.py",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine old/vagrant/tournament/tournament.py",
+		"/D/udacity/Projects/moviePython/README.md",
+		"/C/Users/Saurav/Desktop/fh.py",
+		"/D/udacity/Projects/LogsAnalysis/vagrant/README.md",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/README.md",
+		"/D/udacity/Projects/portfolio/README.md",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/README.md",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/author_views.txt",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/article_views.txt",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/errors.txt",
+		"/D/udacity/6- Intro to Databases/FSND-Virtual-Machine/vagrant/record.txt",
+		"/D/udacity/PART 2/3-The Backend-Applications/webserver.py",
+		"/D/udacity/7-Fullstack Foundations/vagrant/restaurant/config.py",
+		"/D/udacity/7-Fullstack Foundations/vagrant/CRUD Review.txt",
+		"/C/Users/Saurav/Desktop/newsdata.sql",
+		"/C/Users/Saurav/Desktop/RWDF L2 Start/Start/main.css",
+		"/D/udacity/7-Fullstack Foundations/config.py",
+		"/D/udacity/7-Fullstack Foundations/vagrant/.vagrant/machines/default/virtualbox/synced_folders",
+		"/D/udacity/7-Fullstack Foundations/class.py",
+		"/D/udacity/Projects/moviePython/media.py",
+		"/D/udacity/Projects/moviePython/entertainment_center.py",
+		"/D/udacity/Projects/moviePython/fresh_tomatoes.py",
+		"/D/udacity/Projects/Movie/entertainment_center.py",
+		"/D/udacity/Projects/Movie/media.py",
+		"/C/Users/Saurav/Desktop/ud036_StarterCode-master/fresh_tomatoes.py",
+		"/D/udacity/Projects/PortfolioProjectRubrik/portfolio/index.html",
+		"/D/udacity/Projects/PortfolioProjectRubrik/index.html",
+		"/D/udacity/Projects/PortfolioProjectRubrik/css/style.css",
+		"/D/udacity/Projects/ProjectRubrik/index.html",
+		"/D/udacity/Projects/ProjectRubrik/css/style.css",
+		"/D/udacity/17-HTTP & Web Servers/course-ud303/Lesson-2/0_HelloServer/HelloServer.py",
+		"/D/udacity/17-HTTP & Web Servers/course-ud303/Lesson-2/1_EchoServer/EchoServer.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 106.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
