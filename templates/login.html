@@ -11,7 +11,7 @@
 <div class="container content">
 	<div class="row myWell">
 		<div class="col-md-12 center">
-			Sign with you Google Account!
+			Sign with your Google Account!
 		</div>
 		<div class="col-md-12">
 			<div id="signinButton">
@@ -25,6 +25,14 @@
 				data-approvalprompt="force">
 				</span>
 			</div>
+		</div>
+		<div class="col-md-12 center">
+			Sign with your Facebook Account!
+		</div>
+		<div class="col-md-12 center">
+			<fb:login-button scope="public_profile,email" onlogin="sendTokenToServer();">
+				<a href='javascript:sendTokenToServer()'>Login with Facebook</a>
+			</fb:login-button>
 		</div>
 	</div>
 </div>
@@ -64,15 +72,13 @@
   }); } }
 </script>
 
-<fb:login-button scope="public_profile,email" onlogin="sendTokenToServer();">
-	<a href='javascript:sendTokenToServer()'>Login with Facebook</a>
-</fb:login-button>
+
 
 <!--FACEBOOK SIGN IN -->
 <script>
 	window.fbAsyncInit = function() {
 		FB.init({
-			appId      : '141263696535365',
+			appId      : '1744882785574298',
 			cookie     : true,  // enable cookies to allow the server to access 
 			                    // the session
 			xfbml      : true,  // parse social plugins on this page
@@ -106,7 +112,7 @@
 			        if (result) {
 						$('#result').html('Login Successful!</br>'+ result + '</br>Redirecting...')
 						setTimeout(function() {
-							window.location.href = "/restaurant";
+							window.location.href = "/";
 				        }, 4000);
 			      	} else {
 				        $('#result').html('Failed to make a server-side call. Check your configuration and console.');
