@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Integer, String, DateTime, ForeignKey
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, UniqueConstraint
 import datetime
 
 
@@ -30,7 +30,7 @@ class User(Base):
 class Categories(Base):
     __tablename__ = 'categories'
     id = Column(Integer, primary_key=True)
-    name = Column(String(250))
+    name = Column(String(250), unique=True)
     # Add a property decorator to serialize information from this database
 
     @property
