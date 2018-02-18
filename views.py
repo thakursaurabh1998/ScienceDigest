@@ -20,7 +20,7 @@ sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 sys.stderr = codecs.getwriter('utf8')(sys.stderr)
 
 # connecting database
-engine = create_engine('sqlite:///discoveries.db')
+engine = create_engine('postgresql://catalog:catalog@localhost/catalog')
 
 Base.metadata.bind = engine
 DBSession = sessionmaker(bind=engine)
